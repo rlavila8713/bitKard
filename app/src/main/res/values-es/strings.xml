@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bitKARD</string>
+    <string name="action_about">Acerca de...</string>
+    <string name="action_settings">Configuración</string>
+    <string name="briefing">Información</string>
+    <string name="contacts">Contactos</string>
+    <string name="faq">Preguntas frecuentes</string>
+    <string name="gallery">Galería</string>
+    <string name="home">Inicio</string>
+    <string name="localization">Localización</string>
+    <string name="services">Servicios</string>
+    <string name="services_1">Cursos</string>
+    <string name="title_activity_about">Sobre</string>
+    <string name="share">Compartir</string>
+    <string name="Send">Enviar</string>
+    <string name="Communicate">Comunicación</string>
+    <string name="services_1_descripcion">Poner descripción</string>
+    <string name="services_2_descripcion">Poner descripción</string>
+    <string name="services_3_descripcion">Poner descripción</string>
+    <string name="services_4_descripcion">Poner descripción</string>
+    <string name="services_5_descripcion">Poner descripción</string>
+    <string name="cliente_email_header">Correo electónico</string>
+    <string name="cliente_social_header">Social</string>
+    <string name="cliente_web_header">Web</string>
+    <string name="cliente_phone_header">Teléfono(s)</string>
+    <string name="action_acept">Llamar</string>
+    <string name="action_decline">Cancelar</string>
+    <string name="call">Llamar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="directory">Directorio</string>
+</resources>

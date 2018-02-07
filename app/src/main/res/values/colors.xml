@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="blue_accent2">#ff304ffe</color>
+    <color name="colorPrimaryDark2">#ff5b5a</color>
+    <color name="colorPrimary2">#ff5b5a</color>
+    <color name="colorAccent2">#2f323b</color>
+    <color name="colorPrimary3">#009e6e</color>
+    <color name="colorPrimaryDark3">#97be49</color>
+    <color name="color_bit">#269350</color>
+    <color name="color_kard">#97bf49</color>
+    <color name="color_kard_pressed">#7fa438</color>
+
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+    <color name="album_title">#4c4c4c</color>
+
+    <color name="face_1">#3b5998</color>
+    <color name="face_2">#8b9dc3</color>
+    <color name="face_3">#dfe3ee</color>
+    <color name="face_4">#f7f7f7</color>
+
+    <color name="text_title">#CC000000</color>
+    <color name="text_secondary">#8C000000</color>
+    <color name="light_blue">#03a9f4</color>
+
+</resources>

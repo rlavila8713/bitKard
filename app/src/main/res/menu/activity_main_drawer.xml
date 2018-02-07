@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_briefing"
+            android:icon="@drawable/ic_format_bold_black_24dp"
+            android:title="@string/briefing" />
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/ic_group_black_24dp"
+            android:title="@string/contacts" />
+        <item
+            android:id="@+id/nav_services"
+            android:icon="@drawable/ic_school_black_24dp"
+            android:title="@string/services" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/ic_location_on_black_24dp"
+            android:title="@string/localization" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_photo_black_24dp"
+            android:title="@string/gallery" />
+        <item
+            android:id="@+id/nav_directory"
+            android:icon="@drawable/ic_import_contacts_black_24dp"
+            android:title="@string/directory" />
+
+        <item
+            android:id="@+id/nav_faq"
+            android:icon="@drawable/ic_help_outline_black_24dp"
+            android:title="@string/faq" />
+    </group>
+
+    <item android:title="@string/Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_fingerprint_black_24dp"
+                android:title="@string/action_about" />
+        </menu>
+    </item>
+
+</menu>

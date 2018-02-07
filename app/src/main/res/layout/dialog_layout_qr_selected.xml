@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:windowMinWidthMajor="@android:dimen/dialog_min_width_major">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp">
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/qr_selected"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:src="@drawable/qrcode">
+        </ImageView>
+    </LinearLayout>
+
+</LinearLayout>
